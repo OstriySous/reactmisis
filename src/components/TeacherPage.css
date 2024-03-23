@@ -1,0 +1,30 @@
+/* TeacherPage.css */
+.teacher-page {
+    padding: 20px;
+}
+
+.teacher-page h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.teacher-page h2 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+.teacher-page ul {
+    list-style: none;
+    padding: 0;
+}
+
+.teacher-page ul li {
+    background-color: #ecf0f1;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.teacher-page p {
+    margin-top: 20px;
+}

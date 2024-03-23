@@ -1,0 +1,26 @@
+/* StudentsList.css */
+.students-list {
+    padding: 20px;
+}
+
+.students-list h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.group h2 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+.group ul {
+    list-style: none;
+    padding: 0;
+}
+
+.group ul li {
+    background-color: #ecf0f1;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}

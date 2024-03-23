@@ -1,0 +1,26 @@
+/* TeachersList.css */
+.teachers-list {
+    padding: 20px;
+}
+
+.teachers-list h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.department h2 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+.department ul {
+    list-style: none;
+    padding: 0;
+}
+
+.department ul li {
+    background-color: #ecf0f1;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}

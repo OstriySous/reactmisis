@@ -1,0 +1,37 @@
+/* Header.css */
+.header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header .navigation ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.header .navigation li {
+    margin-left: 20px;
+}
+
+.header .navigation li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s;
+}
+
+.header .navigation li a:hover,
+.header .navigation li a.active {
+    background-color: #555;
+}

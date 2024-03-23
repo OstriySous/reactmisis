@@ -1,0 +1,33 @@
+/* HomePage.css */
+.homepage {
+    padding: 20px;
+    text-align: center;
+}
+
+.homepage h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.homepage p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.homepage h2 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+.homepage ul {
+    list-style: inside;
+    text-align: left;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.homepage ul li {
+    margin: 10px 0;
+}
