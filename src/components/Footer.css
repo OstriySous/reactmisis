@@ -15,3 +15,9 @@
 .footer-content p {
     margin: 5px 0;
 }
+
+.footer-logo {
+    width: 150px; /* Задайте нужную ширину */
+    height: auto; /* Автоматическая высота для сохранения пропорций */
+    margin-bottom: 10px; /* Отступ снизу */
+}
